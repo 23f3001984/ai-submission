@@ -1,0 +1,6 @@
+{
+  "prompt": "A realistic aerial drone photograph of a flat, green grassy field. A paved two-lane asphalt road stretches across the field. Instead of going straight, the road wildly swerves, loops, and zig-zags in absurd, sharp turns to physically run over every single small, random grey rock scattered across the grass. The overall path is chaotic and hyper-specific to the random placement of the rocks. Natural daytime lighting, no text, no labels.",
+  "model": "Gemini Bannana", 
+  "concept": "Overfitting",
+  "metaphor": "A paved road wildly swerving to hit every scattered rock in a field. It memorizes the 'noise' (rocks) instead of learning the general 'trend' (the destination)."
+}
